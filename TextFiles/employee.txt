@@ -1,0 +1,3 @@
+SG01|jze meng|019-9991919|security guard|hoho|Working
+SG02|wang|019-2020|security guard|123|Working
+CL01|jackson|012-2123|cleaner| |Working

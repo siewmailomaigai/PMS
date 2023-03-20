@@ -1,0 +1,7 @@
+ID: V03
+Date issued: 12/12/2024
+Description of Charges: Electric bill
+Amount: 230.0
+Amount paid:240.0
+Change:10.0
+

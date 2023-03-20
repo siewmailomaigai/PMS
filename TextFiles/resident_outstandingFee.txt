@@ -1,0 +1,18 @@
+ID: R05
+Date issued: 12/12/2023
+Description of Charges: BRUh
+Amount: 12.0
+DueDate: 12/30/2023
+
+ID: R03
+Date issued: 12/12/2023
+Description of Charges: HEY
+Amount: 200.0
+DueDate: 12/12/2024
+
+ID: R03
+Date issued: 12/12/2023
+Description of Charges: Electric bill 
+Amount: 230.0
+DueDate: 12/11/2024
+

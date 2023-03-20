@@ -1,0 +1,14 @@
+ID: R02
+Start Date: 12/12/2023
+End Date: 12/25/2023
+Total Charges: 30.0
+Total Payments: 20.0
+Current Balance: 10.0
+
+ID: R05
+Start Date: 9/10/2022
+End Date: 11/11/2022
+Total Trannsaction: 3000.0
+Initial Balance: 2.00201201
+Current Balance: 2.00198201
+

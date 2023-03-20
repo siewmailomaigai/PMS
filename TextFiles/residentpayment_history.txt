@@ -1,0 +1,8 @@
+Resident ID: R05
+Amount charged: 12.0
+Amount paid: 12.0
+
+Resident ID: R02
+Amount charged: 400.0
+Amount paid: 400.0
+

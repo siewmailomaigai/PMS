@@ -1,0 +1,6 @@
+ID: R02
+Date issued: 12/12/2023
+Description of Charges: Pipe fix
+Amount: 300.0
+Amount paid:310.0
+Change:10.0
